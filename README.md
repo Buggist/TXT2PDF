@@ -21,6 +21,8 @@
 
 > 目录长度超出一页则无法正常显示（BUG）
 
+> 执行一次转换后需要重启程序才能正常进行下一次转换（BUG）
+
 ## 源文档示例
 
 ![preview](https://github.com/Buggist/TXT2PDF/blob/main/demo/%E6%BA%90%E6%96%87%E6%A1%A3%E7%A4%BA%E4%BE%8B.png?raw=true)
