@@ -9,6 +9,8 @@
 
 > 文档编码必须是 UTF-8 格式
 
+> 缩进只能使用制表符
+
 ## 源文档示例
 
 ![preview](https://github.com/Buggist/TXT2PDF/blob/main/demo/%E6%BA%90%E6%96%87%E6%A1%A3%E7%A4%BA%E4%BE%8B.png?raw=true)
@@ -25,3 +27,6 @@
 
 ![preview](https://github.com/Buggist/TXT2PDF/blob/main/demo/%E6%AD%A3%E6%96%87%E7%A4%BA%E4%BE%8B.png?raw=true)
 
+## 说明
+
+我的全部个人文档都遵循此格式，极其易读且易于机器解析，只是为了方便自己而做的工具。
